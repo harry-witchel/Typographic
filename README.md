@@ -3,7 +3,7 @@ Typographic Errors Have Linear Effects on Trustworthiness
 
 These supplements are part of a scientific project and the scientific paper that arose from it in 2020:
 
-Typographic errors in health forum texts about multiple sclerosis lead to linear penalties in trustworthiness ratings by healthy participants
+Spelling errors in brief computer-mediated texts implicitly lead to linearly additive penalties in trustworthiness 
 
 Authors
 
@@ -27,3 +27,5 @@ Supplementary Methods 3: Verification that spelling errors occurred naturally on
 Supplement 4           : TREND checklist for research reporting
 
 Supplement 5           : Anonymised raw questionnaire data from experiment
+
+Supplement 6           : Power Calculation explanation
